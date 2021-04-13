@@ -84,6 +84,9 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
  - [Gamemakin Unreal Engine 4 Style Guide](https://github.com/Allar/ue4-style-guide)
  - [Airbnb Swift Style Guide](https://github.com/airbnb/swift)
  - [Awesome Naming - A curated list for when naming things](https://github.com/gruhn/awesome-naming)
+ - [JetBrains JSON standard for documenting web component libraries for IDEs, documentation generators and other tools](https://github.com/JetBrains/web-types)
+ - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+ - [Data Import Best Practices in Power BI](https://www.sqlbi.com/articles/data-import-best-practices-in-power-bi/) (by Marco Russo)
 
 
 ## Relation Database Documentation
